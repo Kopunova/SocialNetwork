@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.postgresql.Driver:postgresql-42.0.0:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/postgresql/Driver/postgresql-42.0.0/unknown/postgresql-42.0.0-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/postgresql/Driver/postgresql-42.0.0/unknown/postgresql-42.0.0-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/postgresql/Driver/postgresql-42.0.0/unknown/postgresql-42.0.0-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
