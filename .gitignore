@@ -48,7 +48,7 @@ Temporary Items
 
 # Olga
 .idea
-.iml
+*.iml
 target/
 
 
