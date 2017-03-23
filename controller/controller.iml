@@ -25,11 +25,16 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/dao/src/main/resources/postgresql-42.0.0.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="dao" />
+    <orderEntry type="module" module-name="model" />
+    <orderEntry type="module" module-name="service" />
+    <orderEntry type="library" name="Maven: org.mortbay.jetty:servlet-api-2.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:3.8.1" level="project" />
   </component>
 </module>
